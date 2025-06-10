@@ -19,6 +19,7 @@
     pkgs.python310Packages.safetensors
     pkgs.python310Packages.sentencepiece
     pkgs.python310Packages.transformers
+ pkgs.python310Packages.sphinx
     pkgs.python310Packages.datasets
     pkgs.python310Packages.wandb
   ];
